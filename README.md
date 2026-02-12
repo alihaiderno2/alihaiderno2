@@ -8,10 +8,10 @@
 
 ---
 
-### 📜 Character Bio
+### 📜 Bio
 > **"Bridging the gap between Low-Level Logic and High-Level Intelligence."**
 
-I am a **Teaching Assistant** and **Full Stack AI Developer** based in Pakistan. While most developers choose between "Web" or "AI," I build the bridge between them—integrating Deep Learning models into scalable web applications.
+I am a **Full Stack AI Developer** and **Teaching Assistant**. While most developers choose between "Web" or "AI," I build the bridge between them integrating Deep Learning models into scalable web applications.
 
 * **Current Class:** Full Stack AI Engineer (BSIT Student).
 * **Core Competency:** Building custom Full Stack Applications and solving complex problems using AI.
@@ -74,7 +74,7 @@ A performance-critical 2D game built from scratch without a pre-made engine.
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=alihaiderno2&theme=radical&hide_border=false" />
 </div>
 
-### 🐍 Activity Snake
+### 🐍 Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alihaiderno2/alihaiderno2/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alihaiderno2/alihaiderno2/output/github-contribution-grid-snake.svg">

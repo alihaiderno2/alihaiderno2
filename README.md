@@ -54,5 +54,26 @@ I am a developer who bridges the gap between **robust software engineering** and
 
 ---
 
-### 📈 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihaiderno2&show_icons=true&theme=radical)
+### 🎮 Stats & Achievements
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alihaiderno2&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="alihaiderno2" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=alihaiderno2&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=alihaiderno2&theme=radical&hide_border=false" />
+  </a>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaiderno2&layout=compact&theme=radical&langs_count=8" />
+</div>
